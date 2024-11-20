@@ -1,3 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-/backup
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environment
+venv/
+ENV/
+.env/
+env.bak/
+venv.bak/
+
+# Node modules (if you're using Node.js related tools)
+node_modules/
+
+# Gradio specific
+.gradio/
+
+# Environments
 .env
+.env.local
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings (if you're using VS Code)
+.vscode/
+
+# PyCharm
+.idea/
+
+# Visual Studio Code artifacts
+*.code-workspace
+.vscode
+
+# IDE specific files
+.idea/
+
+# Logs
+*.log
+
+# Others
+*.swp
+/generated
+/backup
+generated.zip
+extraction/generated.pkl
