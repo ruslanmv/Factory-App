@@ -4,7 +4,7 @@
 
 Factory App AI is an innovative application that enables users to dynamically generate project structures and code using generative AI models, including ChatGPT by OpenAI. The app provides a user-friendly interface powered by Gradio to define project requirements, generate files, validate outputs, and containerize the projects for deployment. This application is designed to streamline project development but may require manual adjustments to the generated content for optimal functionality.
 
-> **Note:** This project implements the **Standard Method** as referenced in [arXiv:2411.10861](https://arxiv.org/pdf/2411.10861). 
+> **Note:** This project implements the **Standard Method** as referenced in [arXiv:2411.10861](https://arxiv.org/abs/2411.10861). 
 
 ## Table of Contents
 
