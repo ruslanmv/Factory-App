@@ -104,7 +104,7 @@ python app.py
 
 ## License
 
-This project is licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [`LICENSE`](LICENSE.txt) file for details.
+This project is licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [`LICENSE`](LICENSE.md) file for details.
 
 ## Stay Tuned!
 
